@@ -1,5 +1,5 @@
 # A Java Hello World Web Application
-[![Build Status](https://dev.azure.com/maping930883/java-helloworld-web-app/_apis/build/status/maping.java-helloworld-web-app?branchName=master)](https://dev.azure.com/maping930883/java-helloworld-web-app/_build/latest?definitionId=13&branchName=master)
+[![Build Status](https://dev.azure.com/maping930883/java-helloworld-web-app/_apis/build/status/java-helloworld-web-app-Maven-CI?branchName=master)](https://dev.azure.com/maping930883/java-helloworld-web-app/_build/latest?definitionId=26&branchName=master)
 
 ## 1. Create a repo manually
 

@@ -45,7 +45,7 @@ $ gh repo create java-helloworld-web-app --public --confirm
 
 ### 2.5 Copy files
 ```console
-$ cp -r /mnt/c/Users/pinm/code/maven/java-helloworld-web-app /mnt/c/Users/pinm/code/github/java-helloworld-web-app
+$ cp -r /mnt/c/Users/pinm/code/maven/java-helloworld-web-app/* /mnt/c/Users/pinm/code/github/java-helloworld-web-app
 $ cd /mnt/c/Users/pinm/code/github/java-helloworld-web-app
 $ code README.md
 $ git add -A

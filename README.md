@@ -61,7 +61,7 @@ $ git push -u origin master
 
 ## 6. Create a Self-Hosted Docker CI pipeline
 ### 6.1 Run as a standalone Docker container
-### 6.2 Deploy and run on AKS
+### 6.2 Deploy and run on Kubernetes
 
 ## 7. Delete repo
 Click repo "maping/java-helloworld-web-app", then click "Settings", then drop down to "Danger Zone", click "Delete this repository".

@@ -53,5 +53,13 @@ $ git commit -m "add java maven archetype web app"
 $ git push -u origin master
 ```
 
-## 3. Delete repo
+## 3. Create a Maven CI pipeline
+
+## 4. Create a Maven CI&CD pipeline
+
+## 5. Create a Self-Hosted VM CI pipeline
+
+## 6. Create a Self-Hosted Docker CI pipeline
+
+## 7. Delete repo
 Click repo "maping/java-helloworld-web-app", then click "Settings", then drop down to "Danger Zone", click "Delete this repository".

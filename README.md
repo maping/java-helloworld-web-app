@@ -31,7 +31,7 @@ https://cli.github.com/
 ### 2.2 Generate a Personal Access Token with repo operation privilege
 https://github.com/settings/tokens
 
-### 2.3 Create a java helloword web app by maven
+### 2.3 Create a java helloworld web app by maven
 ```console
 $ cd /mnt/c/Users/pinm/code/maven/
 $ mvn archetype:generate -DgroupId=com.mwit.javawebapp -DartifactId=java-helloworld-web-app -DarchetypeArtifactId=maven-archetype-webapp -Dversion=1.0-SNAPSHOT -DinteractiveMode=false

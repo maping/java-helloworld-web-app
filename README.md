@@ -56,6 +56,8 @@ $ git push -u origin master
 ## 3. Create a Maven CI pipeline
 
 ## 4. Create a Maven CI&CD pipeline
+### 4.1 Install a Tomcat VM manually
+### 4.2 Install a Tomcat VM automatically（Infrastructure as Code）
 
 ## 5. Create a Self-Hosted VM CI pipeline
 

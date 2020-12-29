@@ -55,19 +55,19 @@ $ git push -u origin master
 
 ## 3. Create a Maven CI pipeline
 
-## 4. Create a Maven CI&CD pipeline (Develop Environment)
-### 4.1 Install a Tomcat VM manually
-### 4.2 Install a Tomcat VM automatically（Infrastructure as Code）
+## 4. Create a Self-Hosted VM CI pipeline
 
-## 5. Create a Multi-stage Release pipeline (Test -> Product Envirnonment） 
-### 5.1 Install two Tomcat VMs manually
-### 5.2 Install two Tomcat VMs automatically（Infrastructure as Code）
+## 5. Create a Self-Hosted Docker CI pipeline
+### 5.1 Run as a standalone Docker container
+### 5.2 Deploy and run on Kubernetes
 
-## 6. Create a Self-Hosted VM CI pipeline
+## 6. Create a Maven CI&CD pipeline (Develop Environment)
+### 6.1 Install a Tomcat VM manually
+### 6.2 Install a Tomcat VM automatically（Infrastructure as Code）
 
-## 7. Create a Self-Hosted Docker CI pipeline
-### 7.1 Run as a standalone Docker container
-### 7.2 Deploy and run on Kubernetes
+## 7. Create a Multi-stage Release pipeline (Test -> Product Envirnonment） 
+### 7.1 Install two Tomcat VMs manually
+### 7.2 Install two Tomcat VMs automatically（Infrastructure as Code）
 
 ## 8. Delete repo
 Click repo "maping/java-helloworld-web-app", then click "Settings", then drop down to "Danger Zone", click "Delete this repository".
